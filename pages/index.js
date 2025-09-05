@@ -13,7 +13,8 @@ export default function Home() {
         <title>Nielsen Aerospace Enterprises</title>
         <meta name="description" content="Advanced OSINT data processing and intelligence services for aerospace, defense, and enterprise applications." />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/NA_SPIRIT.svg" type="image/svg+xml" />
+        <link rel="apple-touch-icon" href="/NA_SPIRIT.svg" />
       </Head>
       
       <div style={{minHeight: '100vh', background: '#f9fafb'}}>
