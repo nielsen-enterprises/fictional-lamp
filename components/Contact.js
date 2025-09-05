@@ -63,7 +63,7 @@ export default function Contact() {
               </div>
               <div className="feature-item">
                 <div className="feature-icon" style={{background: '#bfdbfe'}}></div>
-                <p>Comprehensive support and training programs</p>
+                <p>Rich partner network for cross-domain integration</p>
               </div>
             </div>
           </div>
