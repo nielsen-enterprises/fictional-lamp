@@ -65,6 +65,14 @@ export default function Contact() {
                 <div className="feature-icon" style={{background: '#bfdbfe'}}></div>
                 <p>Rich partner network for cross-domain integration</p>
               </div>
+              <div className="feature-item">
+                <div className="feature-icon" style={{background: '#bfdbfe'}}></div>
+                <p>Hands-on Mission Engineering specialist analysts</p>
+              </div>
+              <div className="feature-item">
+                <div className="feature-icon" style={{background: '#bfdbfe'}}></div>
+                <p>Dynamic & responsive custom tooling and analysis products</p>
+              </div>
             </div>
           </div>
         </div>
