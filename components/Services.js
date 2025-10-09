@@ -19,6 +19,10 @@ export default function Services() {
     {
       title: "Near-Peer Satellite Capabilities Analytics",
       description: "Comprehensive OSINT analysis of satellite capabilities through automated scraping, registry checks, and hands-on analyst research services"
+    },
+    {
+      title: "Custom Analyses and Mission Impact Studies",
+      description: "Tailored intelligence assessments and mission-specific impact evaluations for strategic decision support"
     }
   ]
 
@@ -39,7 +43,7 @@ export default function Services() {
           Comprehensive intelligence processing and analysis for mission-critical operations
         </p>
         
-        <div className="grid grid-3" style={{marginBottom: '3rem'}}>
+        <div className="grid grid-2" style={{marginBottom: '3rem'}}>
           {dataProducts.map((product, index) => (
             <div key={index} className="card">
               <h3>{product.title}</h3>
@@ -64,7 +68,7 @@ export default function Services() {
 
         <div className="card" style={{background: '#1f2937', color: 'white'}}>
           <h3 style={{textAlign: 'center', marginBottom: '2rem', fontSize: '1.5rem', color: 'white'}}>
-            Near-Peer Satellite Capabilities Analytics
+            Near-Peer Satellite Capabilities and IntentAnalytics
           </h3>
           <div className="grid grid-2">
             <div>
@@ -72,10 +76,10 @@ export default function Services() {
                 Automated Services
               </h4>
               <ul style={{color: '#d1d5db', lineHeight: '1.6'}}>
-                <li>Automated scrape-and-test approaches for satellite registry data</li>
-                <li>Continuous monitoring of launch activities and orbital deployments</li>
+                <li>Automated scrape-and-validate approaches for satellite registry data</li>
+                <li>Continuous monitoring of launch & deployment activities</li>
                 <li>Real-time capability assessment through OSINT aggregation</li>
-                <li>Automated pattern recognition for satellite constellation analysis</li>
+                <li>Pattern recognition for satellite missions and behavior analysis</li>
               </ul>
             </div>
             <div>
@@ -84,8 +88,8 @@ export default function Services() {
               </h4>
               <ul style={{color: '#d1d5db', lineHeight: '1.6'}}>
                 <li>On-request research and deep-dive capability analysis</li>
-                <li>Custom satellite tracking and behavior pattern studies</li>
-                <li>Expert assessment of near-peer satellite threat capabilities</li>
+                <li>Custom satellite Pattern of Life studies</li>
+                <li>Expert assessment of near-peer Sat-to-Sat & ASAT capabilities</li>
                 <li>Tailored intelligence reports for mission-specific requirements</li>
               </ul>
             </div>
