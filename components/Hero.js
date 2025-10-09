@@ -28,7 +28,7 @@ export default function Hero() {
         </div>
         
         <div style={{color: '#bfdbfe', fontSize: '1.125rem'}}>
-          Advanced Intelligence Processing • Semantic Analysis • Real-time Monitoring
+          Advanced Intelligence Processing • Semantic Analysis • Real-time Scraping & Source Monitoring
         </div>
       </div>
     </section>
