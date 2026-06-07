@@ -15,11 +15,11 @@ export default function Hero() {
         </h1>
         
         <p className="hero-subtitle">
-          Nielsen Aerospace Enterprises provides mission-critical customers with Open Source Intelligence regarding prelaunch, 
-          launch, and post-launch/on-orbit activity by ally and adversary groups.
+          Nielsen Aerospace Enterprises provides mission-critical customers across commercial and government space operations with Open Source Intelligence and Publically-Available Information Research (OSINT/PAIR) regarding prelaunch, 
+          launch, and post-launch/on-orbit activity by ally, neutral, and adversary groups.
           <br /><br />
-          Our tools capture space capability development, public sentiment, mission impact and hostility context for service 
-          into mission recommenders, COA adjudication, and commander intent shaping activities.
+          Our tools automate the capture and communication of space capability development, public sentiment, mission impact and hostility context for service 
+          into mission recommenders, COA adjudication, and commander intent-shaping activities.
         </p>
         
         <div className="hero-buttons">
