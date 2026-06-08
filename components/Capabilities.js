@@ -117,20 +117,19 @@ export default function Capabilities() {
           </div>
 
           <div style={{marginBottom: '2rem'}}>
-            <div style={{display: 'flex', justifyContent: 'center', marginBottom: '1.5rem'}}>
-              <div style={{background: '#2563eb', color: 'white', padding: '0.5rem 1rem', borderRadius: '0.25rem', fontSize: '0.875rem', fontWeight: '600'}}>
-                UPCOMING
+            div style={{background: '#10b981', color: 'white', padding: '0.5rem 1rem', borderRadius: '0.25rem', fontSize: '0.875rem', fontWeight: '600'}}>
+                ✓ COMPLETED
               </div>
             </div>
             <h4 style={{fontSize: '1.125rem', fontWeight: '600', color: '#1f2937', marginBottom: '0.5rem'}}>
-              Mid-November 2024: Unified Data Library
+              Mid-November 2025: Unified Data Library
             </h4>
             <p style={{color: '#6b7280', fontSize: '1rem', marginBottom: '1rem'}}>
               Comprehensive data repository with advanced query capabilities
             </p>
             
             <h4 style={{fontSize: '1.125rem', fontWeight: '600', color: '#1f2937', marginBottom: '0.5rem'}}>
-              Mid-November 2024: Global Data Marketplace
+              Mid-November 2025: Global Data Marketplace
             </h4>
             <p style={{color: '#6b7280', fontSize: '1rem'}}>
               Public availability of OSINT data products and analytics services
