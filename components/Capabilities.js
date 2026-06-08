@@ -117,7 +117,8 @@ export default function Capabilities() {
           </div>
 
           <div style={{marginBottom: '2rem'}}>
-            div style={{background: '#10b981', color: 'white', padding: '0.5rem 1rem', borderRadius: '0.25rem', fontSize: '0.875rem', fontWeight: '600'}}>
+            <div style={{display: 'flex', justifyContent: 'center', marginBottom: '1.5rem'}}>
+              <div style={{background: '#10b981', color: 'white', padding: '0.5rem 1rem', borderRadius: '0.25rem', fontSize: '0.875rem', fontWeight: '600'}}>
                 ✓ COMPLETED
               </div>
             </div>
