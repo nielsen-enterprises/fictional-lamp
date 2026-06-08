@@ -24,7 +24,7 @@ export default function About() {
             
             <div className="bio">
               <p>
-                Alex Nielsen is an innovation and integration specialist with an Active Secret Clearance who has 
+                Alex Nielsen is an innovation and integration specialist with a deep security and complex information systems background who has 
                 spearheaded transformative technology initiatives across space, defense, health, and cloud domains. 
                 As a Principal Investigator and Research Director, he has captured and led over <strong>$10 million in funded research </strong> 
                 while contributing to an additional <strong>$20+ million in support and innovation roles</strong>, driving real-world 
@@ -48,7 +48,7 @@ export default function About() {
               <p>
                 Currently leading Nielsen Aerospace Enterprises in advancing Space Domain Awareness through OSINT capabilities, 
                 Nielsen bridges cutting-edge technology with mission-driven products, emphasizing transparent, impactful solutions 
-                that drive operational excellence in the aerospace and defense sectors.
+                that drive operational excellence in the aerospace and defense sectors. He also serves as a Subject Matter Expert and as a Data Integration Specialist for capabilities development and requirements engineering activities at NATO Supreme Allied Commander Transformation in Norfolk, Virginia.
               </p>
             </div>
             
@@ -56,10 +56,6 @@ export default function About() {
               <div className="credential-item">
                 <span className="credential-label">Education:</span>
                 <span className="credential-value">Old Dominion University (ABD) - Complex Information Systems Design</span>
-              </div>
-              <div className="credential-item">
-                <span className="credential-label">Clearance:</span>
-                <span className="credential-value">Active Secret Clearance</span>
               </div>
               <div className="credential-item">
                 <span className="credential-label">Research:</span>
