@@ -14,7 +14,7 @@ export default function Footer() {
               Advanced OSINT data processing and intelligence services for aerospace, defense, and enterprise applications.
             </p>
             <p style={{fontSize: '0.875rem', color: '#9ca3af'}}>
-              © 2025 Nielsen Aerospace Enterprises. All rights reserved.
+              © 2026 Nielsen Aerospace Enterprises. All rights reserved.
             </p>
           </div>
           
@@ -38,7 +38,7 @@ export default function Footer() {
         </div>
         
         <div className="footer-bottom">
-          <p>Secure • Scalable • Mission-Ready | Available September 2025</p>
+          <p>Secure • Scalable • Mission-Ready | Available On-Demand</p>
         </div>
       </div>
     </footer>
